@@ -1,5 +1,5 @@
 @extends('layouts.template')
-@section('title', 'Welcome to my digital portfolio')
+@section('title', 'Digital Portfolio - Cristian Parada Gualteros')
 @section('content')
     
     @foreach ($proyects as $proyect)
